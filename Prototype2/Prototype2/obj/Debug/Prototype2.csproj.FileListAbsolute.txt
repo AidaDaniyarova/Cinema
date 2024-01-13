@@ -1,0 +1,261 @@
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.csprojAssemblyReference.cache
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.cache
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CoreCompileInputs.cache
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\FontAwesome.Sharp.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CopyComplete
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormCustomers.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormDashboard.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormFilms.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormHalls.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormOrders.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormSettings.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormWorkers.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormLogin.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\obj\Debug\Prototype2.FormMain.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.Licensing.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Guna.UI2.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.Licensing.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\FontAwesome.Sharp.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Guna.UI2.dll
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.csprojAssemblyReference.cache
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormCustomers.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormDashboard.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormFilms.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormHalls.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormLogin.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormOrders.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormSettings.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormWorkers.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormMain.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.cache
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CoreCompileInputs.cache
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CopyComplete
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Login1.mdf
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\bin\Debug\Login1_log.ldf
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormReview.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.MenuUser.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormProfitCalc.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormBuyingTicket.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormBuying.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormBuying.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormBuyingTicket.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormCustomers.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormDashboard.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormFilms.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormHalls.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormLogin.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormOrders.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormProfitCalc.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormReview.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormSettings.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormWorkers.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormMain.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.MenuUser.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Login1.mdf
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Login1_log.ldf
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CopyComplete
+C:\Users\HP\Desktop\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormBuyingSnacks.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormBuyingSnacks.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormForgotPass.resources
+D:\Рабочий стол2\All things\11C\Информ\Project\Ed prototype\Prototype2\Prototype2\obj\Debug\Prototype2.FormPersInfo.resources
